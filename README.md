@@ -14,3 +14,4 @@ This dashboard was build using Tableau and it shows the Percentages of the total
 # PROJECT 3: [ORGANIZATION'S PROJECTS ACTIVITIES CORRELATION OVERVIEW](https://public.tableau.com/app/profile/ezra.lang.at/viz/ProjectActivitiesCorrelationOverview_16237510647400/ProjectActivitiesCorrelationOverview)
  
  This Visualization dashboard is displaying how the company's project execution and activities correlated with each over a certain period of time.
+ ![](/https://github.com/EzraBI/Ezra_Portfolio/blob/main/images/ORGANIZATION'S%20PROJECTS%20ACTIVITIES%20CORRELATION%20OVERVIEW.PNG)
