@@ -10,3 +10,7 @@ This Report was build using Tableau to visualize financial overview information 
 This dashboard was build using Tableau and it shows the Percentages of the total amount spent in each office and the amount (Cash Outflows) and the percentage of the total revenue and amount received in each office location (Cash Inflow) and the total profit. The amount shown is in US Dollars ($USD). You can click on the title to access the project in Tableau Public Gallery.
 
 ![](/images/CASH%20FLOW%20EXECUTIVE%20REPORT.PNG)
+
+# PROJECT 3: [ORGANIZATION'S PROJECTS ACTIVITIES CORRELATION OVERVIEW(https://public.tableau.com/app/profile/ezra.lang.at/viz/ProjectActivitiesCorrelationOverview_16237510647400/ProjectActivitiesCorrelationOverview)
+ 
+ This Visualization dashboard is displaying how the company's project execution and activities correlated with each over a certain period of time.
