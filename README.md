@@ -21,3 +21,9 @@ This dashboard was build using Tableau and it shows the Percentages of the total
 
 ![](/images/CASH%20FLOW%20EXECUTIVE%20REPORT.PNG)
 
+# PROJECT 4: [DETAILED REVENUE REPORT](https://public.tableau.com/app/profile/ezra.lang.at/viz/DETAILEDREVENUEREPORT/DetailedReport)
+# OVERVIEW
+
+This dashboard was build using Tableau This Detailed Report shows comprehencive visualizations of Monthly Costs  expenditure in all Departments, Office Locations, Cost Categories, and Cost Subcategories. The amount shown is in Kenya Shillings (Ksh). [Click here](https://public.tableau.com/app/profile/ezra.lang.at/viz/DETAILEDREVENUEREPORT/DetailedReport) or the project title to access the project in Tableau Public Gallery.
+
+![](/images/Detailed%20Revenue%20Report.png)
