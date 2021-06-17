@@ -1,4 +1,7 @@
 # Ezra_Portfolio
+
+I have been involved in execution of several Business Intelligence projects where we were mostly using Agile SDLC Methodology from collecting data from different sources, performing data cleaning, ensuring data Integrity using ETL tools like Alteryx, storing data in the databases, creating stored procedures and views to retrieve data from databases using SQL and also in developing reports to generate insights from data through Data Visualization using reporting tools like Tableau and Qlik Sense. Some of the sample projects that I have Completed include:
+
 # PROJECT 1: [FINANCE OVERVIEW REPORT](https://public.tableau.com/app/profile/ezra.lang.at/viz/FINANCEOVERVIEWREPORT/SummaryReport)
 # OVERVIEW
 This Report was build using Tableau to visualize financial overview information for the company over the period of three years. It displays the Total Costs spent in transactions by Office, Category, Subcategory, Department and Year. The filters are used to drill down on the transactions in a specific areas needed. The amount shown is in Kenya Shillings(Ksh). [Click here](https://public.tableau.com/app/profile/ezra.lang.at/viz/FINANCEOVERVIEWREPORT/SummaryReport) or the project title to access the project in Tableau Public Gallery.
