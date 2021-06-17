@@ -1,5 +1,9 @@
 # Ezra_Portfolio
+# Contact
+Email: ezra.banalyst@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ezra-lang-at-265694147/)
 
+# Profile Summary
 I have been involved in execution of several Business Intelligence projects where we were mostly using Agile SDLC Methodology from collecting data from different sources, performing data cleaning, ensuring data Integrity using ETL tools like Alteryx, storing data in the databases, creating stored procedures and views to retrieve data from databases using SQL and also in developing reports to generate insights from data through Data Visualization using reporting tools like Tableau and Qlik Sense. Some of the sample projects that I have Completed include:
 
 # PROJECT 1: [FINANCE OVERVIEW REPORT](https://public.tableau.com/app/profile/ezra.lang.at/viz/FINANCEOVERVIEWREPORT/SummaryReport)
