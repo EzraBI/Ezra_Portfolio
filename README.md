@@ -37,4 +37,4 @@ This dashboard was build using Tableau and it shows the Percentages of the total
 
 This Detailed Report dashboard was build using Tableau shows comprehencive visualizations of Monthly Costs  expenditure in all Departments, Office Locations, Cost Categories, and Cost Subcategories. The amount shown is in Kenya Shillings (Ksh). [Click here](https://public.tableau.com/app/profile/ezra.lang.at/viz/DETAILEDREVENUEREPORT/DetailedReport) or the project title to access the project in Tableau Public Gallery.
 
-![](/images/Detailed%20Revenue%20Report.png)
+![](/images/Detailed_Revenue_Report.png)
