@@ -14,7 +14,7 @@ I have been involved in execution of several Business Intelligence projects wher
 # OVERVIEW
 This Report was build using Tableau to visualize financial overview information for the company over the period of three years. It displays the Total Costs spent in transactions by Office, Category, Subcategory, Department and Year. The filters are used to drill down on the transactions in a specific areas needed. The amount shown is in Kenya Shillings(Ksh). [Click here](https://public.tableau.com/app/profile/ezra.lang.at/viz/FINANCEOVERVIEWREPORT/SummaryReport) or the project title to access the project in Tableau Public Gallery.
 
-![](/images/FINANCE%20OVERVIEW%20REPORT.PNG)
+![](/images/FINANCE_OVERVIEW_REPORT.PNG)
 
 # PROJECT 2: [ORGANIZATION'S PROJECTS ACTIVITIES CORRELATION OVERVIEW](https://public.tableau.com/app/profile/ezra.lang.at/viz/ProjectActivitiesCorrelationOverview_16237510647400/ProjectActivitiesCorrelationOverview)
 # OVERVIEW
@@ -22,7 +22,7 @@ This Report was build using Tableau to visualize financial overview information 
  This Visualization dashboard is displaying how the company's project execution and activities correlated with each over a certain period of time.
  [Click here](https://public.tableau.com/app/profile/ezra.lang.at/viz/ProjectActivitiesCorrelationOverview_16237510647400/ProjectActivitiesCorrelationOverview) or the project title to access the project in Tableau Public Gallery.
  
- ![](/images/ORGANIZATION'S%20PROJECTS%20ACTIVITIES%20CORRELATION%20OVERVIEW.PNG)
+ ![](/images/ORGANIZATION'S_PROJECTS_ACTIVITIES_CORRELATION_OVERVIEW.PNG)
 
 
 # PROJECT 3: [CASH FLOW EXECUTIVE REPORT](https://public.tableau.com/app/profile/ezra.lang.at/viz/CASHFLOWEXECUTIVEREPORT/FinanceInformationReport)
@@ -30,7 +30,7 @@ This Report was build using Tableau to visualize financial overview information 
 
 This dashboard was build using Tableau and it shows the Percentages of the total amount spent in each office and the amount (Cash Outflows) and the percentage of the total revenue and amount received in each office location (Cash Inflow) and the total profit. The amount shown is in US Dollars ($USD). [Click here](https://public.tableau.com/app/profile/ezra.lang.at/viz/CASHFLOWEXECUTIVEREPORT/FinanceInformationReport) or the project title to access the project in Tableau Public Gallery.
 
-![](/images/CASH%20FLOW%20EXECUTIVE%20REPORT.PNG)
+![](/images/CASH_FLOW_EXECUTIVE_REPORT.PNG)
 
 # PROJECT 4: [DETAILED REVENUE REPORT](https://public.tableau.com/app/profile/ezra.lang.at/viz/DETAILEDREVENUEREPORT/DetailedReport)
 # OVERVIEW
