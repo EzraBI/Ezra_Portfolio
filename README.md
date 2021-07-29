@@ -1,7 +1,7 @@
-# Ezra_Portfolio
+# Business Intelligence Projects
 
 # Contact
-Email: ezra.banalyst@gmail.com
+Email: ezralangat88@gmail.com
 
 Cell: +254701727389
 
